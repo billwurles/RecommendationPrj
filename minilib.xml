@@ -1,0 +1,2205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>12.5.4.42</string>
+	<key>Date</key><date>2017-01-09T14:46:40Z</date>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Library Persistent ID</key><string>F709DD1E8CD6F4A1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>2578</key>
+		<dict>
+			<key>Track ID</key><integer>2578</integer>
+			<key>Size</key><integer>4999830</integer>
+			<key>Total Time</key><integer>310987</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:03Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3527017297</integer>
+			<key>Play Date UTC</key><date>2015-10-06T22:01:37Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2016-11-03T03:31:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F4C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Because I Got High</string>
+			<key>Artist</key><string>Afroman</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Ulli Wengers One Hit Wonder, Volume 14</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Afroman</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Afroman/Excuses%20For%20Not%20Doing%20Ones%20Homework/Because%20I%20Got%20High.mp3</string>
+		</dict>
+		<key>2580</key>
+		<dict>
+			<key>Track ID</key><integer>2580</integer>
+			<key>Size</key><integer>3225668</integer>
+			<key>Total Time</key><integer>200960</integer>
+			<key>Date Modified</key><date>2011-07-28T23:16:44Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3433850562</integer>
+			<key>Play Date UTC</key><date>2012-10-23T14:22:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F4E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Barbie Girl (in Dutch)</string>
+			<key>Artist</key><string>Aqua</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Aqua/Unknown%20Album/Barbie%20Girl%20(in%20Dutch).mp3</string>
+		</dict>
+		<key>2582</key>
+		<dict>
+			<key>Track ID</key><integer>2582</integer>
+			<key>Size</key><integer>3140494</integer>
+			<key>Total Time</key><integer>194481</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:04Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:41Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3418464367</integer>
+			<key>Play Date UTC</key><date>2012-04-28T12:26:07Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2016-11-03T03:26:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F4E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Barbie Girl</string>
+			<key>Artist</key><string>Aqua</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Everybody Dance: Tous les tubes dance des 90's</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Aqua</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Aqua/Unknown%20Album/Barbie%20Girl.mp3</string>
+		</dict>
+		<key>2584</key>
+		<dict>
+			<key>Track ID</key><integer>2584</integer>
+			<key>Size</key><integer>3721901</integer>
+			<key>Total Time</key><integer>209580</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:04Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:41Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3499799997</integer>
+			<key>Play Date UTC</key><date>2014-11-25T22:39:57Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-12-24T02:17:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F4EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Strange and Beautiful (I'll Put a Spell on You)</string>
+			<key>Artist</key><string>Aqualung</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Huge Hits 2003</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Aqualung</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Aqualung/Unknown%20Album/Strange%20And%20Beautiful%20(I'll%20Put%20A%20Spell%20On%20You).mp3</string>
+		</dict>
+		<key>2586</key>
+		<dict>
+			<key>Track ID</key><integer>2586</integer>
+			<key>Size</key><integer>7335934</integer>
+			<key>Total Time</key><integer>304091</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:07Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3562340204</integer>
+			<key>Play Date UTC</key><date>2016-11-18T18:56:44Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-05-16T19:02:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F508</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Twenty Four Hours</string>
+			<key>Artist</key><string>Athlete</string>
+			<key>Album Artist</key><string>Athlete</string>
+			<key>Album</key><string>Tourist</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>pct means real</string>
+			<key>Sort Artist</key><string>Athlete</string>
+			<key>Sort Album Artist</key><string>Athlete</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Athlete/Tourist/10%20Twenty%20Four%20Hours.mp3</string>
+		</dict>
+		<key>2588</key>
+		<dict>
+			<key>Track ID</key><integer>2588</integer>
+			<key>Size</key><integer>5379454</integer>
+			<key>Total Time</key><integer>223712</integer>
+			<key>Date Modified</key><date>2011-07-28T23:16:46Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3484164596</integer>
+			<key>Play Date UTC</key><date>2014-05-28T22:29:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F50B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Half Light</string>
+			<key>Artist</key><string>Athlete </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Athlete/Unknown%20Album/Half%20Light.mp3</string>
+		</dict>
+		<key>2590</key>
+		<dict>
+			<key>Track ID</key><integer>2590</integer>
+			<key>Size</key><integer>5997497</integer>
+			<key>Total Time</key><integer>248189</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:07Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3464448071</integer>
+			<key>Play Date UTC</key><date>2013-10-12T17:41:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F50F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wires</string>
+			<key>Artist</key><string>Athlete</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Just Great Songs</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Athlete</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Athlete/Wires%20(Promo%20Single)/01%20Wires.mp3</string>
+		</dict>
+		<key>2592</key>
+		<dict>
+			<key>Track ID</key><integer>2592</integer>
+			<key>Size</key><integer>3259719</integer>
+			<key>Total Time</key><integer>194168</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:07Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3440612689</integer>
+			<key>Play Date UTC</key><date>2013-01-09T21:44:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F52E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Devils Haircut</string>
+			<key>Artist</key><string>Beck</string>
+			<key>Album Artist</key><string>Beck</string>
+			<key>Album</key><string>Odelay</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Beck</string>
+			<key>Sort Album Artist</key><string>Beck</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Beck/Odelay!/Devil's%20Haircut.mp3</string>
+		</dict>
+		<key>2594</key>
+		<dict>
+			<key>Track ID</key><integer>2594</integer>
+			<key>Size</key><integer>4646130</integer>
+			<key>Total Time</key><integer>287686</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:07Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3452776372</integer>
+			<key>Play Date UTC</key><date>2013-05-30T15:32:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F531</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Stayin' Alive</string>
+			<key>Artist</key><string>Bee Gees</string>
+			<key>Album Artist</key><string>Bee Gees</string>
+			<key>Album</key><string>Number Ones</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Bee Gees</string>
+			<key>Sort Album Artist</key><string>Bee Gees</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/BeeGees/Unknown%20Album/Stayin%20Alive.mp3</string>
+		</dict>
+		<key>2596</key>
+		<dict>
+			<key>Track ID</key><integer>2596</integer>
+			<key>Size</key><integer>3430578</integer>
+			<key>Total Time</key><integer>208770</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:08Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3399835497</integer>
+			<key>Play Date UTC</key><date>2011-09-25T21:44:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-08-08T14:34:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F535</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Beautiful Liar</string>
+			<key>Artist</key><string>Beyoncé &#38; Shakira</string>
+			<key>Album Artist</key><string>Beyoncé</string>
+			<key>Album</key><string>B'Day</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Beyoncé &#38; Shakira</string>
+			<key>Sort Album Artist</key><string>Beyoncé</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Beyonce%20ft%20Shakira/Unknown%20Album/Beautiful%20Liar.mp3</string>
+		</dict>
+		<key>2598</key>
+		<dict>
+			<key>Track ID</key><integer>2598</integer>
+			<key>Size</key><integer>2361001</integer>
+			<key>Total Time</key><integer>141949</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2011-07-28T23:16:54Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>130</integer>
+			<key>Play Date</key><integer>3476988341</integer>
+			<key>Play Date UTC</key><date>2014-03-06T22:05:41Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2014-11-10T18:00:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F539</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Ballad of Chasey Lane</string>
+			<key>Artist</key><string>The Bloodhound Gang</string>
+			<key>Album</key><string>Hooray for Boobies</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Ballad of Chasey Lane</string>
+			<key>Sort Artist</key><string>Bloodhound Gang</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/The%20Bloodhound%20Gang/Hooray%20for%20Boobies/07%20The%20Ballad%20of%20Chasey%20Lane.mp3</string>
+		</dict>
+		<key>2600</key>
+		<dict>
+			<key>Track ID</key><integer>2600</integer>
+			<key>Size</key><integer>3290969</integer>
+			<key>Total Time</key><integer>200777</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2016-11-08T20:05:03Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>136</integer>
+			<key>Play Date</key><integer>3549530171</integer>
+			<key>Play Date UTC</key><date>2016-06-23T11:36:11Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2015-04-17T23:30:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F53F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Along Comes Mary</string>
+			<key>Artist</key><string>Bloodhound Gang</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>De Afrekening, Volume 19</string>
+			<key>Genre</key><string>AlternRock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://listen.to/lala/</string>
+			<key>Sort Artist</key><string>Bloodhound Gang</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/The%20Bloodhound%20Gang/Unknown%20Album/Along%20Comes%20Mary.mp3</string>
+		</dict>
+		<key>2602</key>
+		<dict>
+			<key>Track ID</key><integer>2602</integer>
+			<key>Size</key><integer>3621106</integer>
+			<key>Total Time</key><integer>219846</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>45</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2016-11-03T14:29:09Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>189</integer>
+			<key>Play Date</key><integer>3565948215</integer>
+			<key>Play Date UTC</key><date>2016-12-30T13:10:15Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2014-09-05T18:16:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F543</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Hope You Die</string>
+			<key>Artist</key><string>Bloodhound Gang</string>
+			<key>Album Artist</key><string>Bloodhound Gang</string>
+			<key>Album</key><string>Hooray for Boobies</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Bloodhound Gang</string>
+			<key>Sort Album Artist</key><string>Bloodhound Gang</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/The%20Bloodhound%20Gang/Unknown%20Album/I%20Hope%20You%20Die.mp3</string>
+		</dict>
+		<key>2604</key>
+		<dict>
+			<key>Track ID</key><integer>2604</integer>
+			<key>Size</key><integer>4012218</integer>
+			<key>Total Time</key><integer>245159</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>5</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:29:59Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>86</integer>
+			<key>Play Date</key><integer>3543933176</integer>
+			<key>Play Date UTC</key><date>2016-04-19T16:52:56Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-11-02T17:11:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F547</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Bad Touch</string>
+			<key>Artist</key><string>Bloodhound Gang</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>100 Nr. 1 Hits, Volume 1</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>!/come.to/mp3mtvhits</string>
+			<key>Sort Name</key><string>Bad Touch</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/The%20Bloodhound%20Gang/Unknown%20Album/The%20Bad%20Touch.mp3</string>
+		</dict>
+		<key>2606</key>
+		<dict>
+			<key>Track ID</key><integer>2606</integer>
+			<key>Size</key><integer>2252304</integer>
+			<key>Total Time</key><integer>187454</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:01Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:45Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>51</integer>
+			<key>Play Date</key><integer>3534114682</integer>
+			<key>Play Date UTC</key><date>2015-12-28T02:31:22Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-02-09T22:10:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F54F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Parklife (Damon's vocals)</string>
+			<key>Artist</key><string>Blur</string>
+			<key>Album Artist</key><string>Blur</string>
+			<key>Composer</key><string>Alex James/Damon Albarn/Dave Rowntree/Graham Coxon</string>
+			<key>Album</key><string>[non-album tracks]</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Made with RealJukebox (tm)</string>
+			<key>Sort Artist</key><string>Blur</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/blur/Untitled%20-%2002-23-01%20(1)/06%20Parklife.mp3</string>
+		</dict>
+		<key>2608</key>
+		<dict>
+			<key>Track ID</key><integer>2608</integer>
+			<key>Size</key><integer>25054494</integer>
+			<key>Total Time</key><integer>1045054</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2011-07-28T23:16:58Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-05-14T19:50:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F552</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>01 - Brian Eno - Ambient 1- Mu</string>
+			<key>Artist</key><string>Brian Eno</string>
+			<key>Album</key><string>Ambient 1- Music For Airports</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Brian%20Eno/Ambient%201-%20Music%20For%20Airports/01%20-%20Brian%20Eno%20-%20Ambient%201-%20Mu.mp3</string>
+		</dict>
+		<key>2610</key>
+		<dict>
+			<key>Track ID</key><integer>2610</integer>
+			<key>Size</key><integer>4674757</integer>
+			<key>Total Time</key><integer>218409</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:14Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:45Z</date>
+			<key>Bit Rate</key><integer>171</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3553440172</integer>
+			<key>Play Date UTC</key><date>2016-08-07T17:42:52Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-02-12T23:16:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F555</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Touch It (dirty)</string>
+			<key>Artist</key><string>Busta Rhymes</string>
+			<key>Album Artist</key><string>Busta Rhymes</string>
+			<key>Album</key><string>Touch It</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Team CMS</string>
+			<key>Sort Artist</key><string>Busta Rhymes</string>
+			<key>Sort Album Artist</key><string>Busta Rhymes</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Busta%20Rhymes/Touch%20It%20CDS/02%20Touch%20It%20(Dirty).mp3</string>
+		</dict>
+		<key>2612</key>
+		<dict>
+			<key>Track ID</key><integer>2612</integer>
+			<key>Size</key><integer>2735395</integer>
+			<key>Total Time</key><integer>165413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:14Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3526282413</integer>
+			<key>Play Date UTC</key><date>2015-09-28T09:53:33Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-02-12T23:16:32Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F558</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ever Fallen in Love</string>
+			<key>Artist</key><string>Buzzcocks</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>A Time to Remember: 1978</string>
+			<key>Genre</key><string>Punk Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Album</key><string>Time to Remember: 1978</string>
+			<key>Sort Artist</key><string>Buzzcocks</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Buzzcocks/Singles%20Going%20Steady/13%20Ever%20Fallen%20In%20Love_.m4a</string>
+		</dict>
+		<key>2614</key>
+		<dict>
+			<key>Track ID</key><integer>2614</integer>
+			<key>Size</key><integer>3677270</integer>
+			<key>Total Time</key><integer>229172</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:15Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3562848572</integer>
+			<key>Play Date UTC</key><date>2016-11-24T16:09:32Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-05-30T15:11:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F55B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hard Headed Woman</string>
+			<key>Artist</key><string>Cat Stevens</string>
+			<key>Album Artist</key><string>Cat Stevens</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Stevens, Cat</string>
+			<key>Sort Album Artist</key><string>Stevens, Cat</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Cat%20Stevens/Greatest%20Hits/13%20Hard%20Headed%20Woman.mp3</string>
+		</dict>
+		<key>2616</key>
+		<dict>
+			<key>Track ID</key><integer>2616</integer>
+			<key>Size</key><integer>5395385</integer>
+			<key>Total Time</key><integer>168280</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2011-07-28T23:17:05Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3566562127</integer>
+			<key>Play Date UTC</key><date>2017-01-06T15:42:07Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-09-27T02:07:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F55E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Moonshadow</string>
+			<key>Artist</key><string>Cat Stevens</string>
+			<key>Album</key><string>Teaser And The Firecat</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Cat%20Stevens/Teaser%20And%20The%20Firecat/Moonshadow.mp3</string>
+		</dict>
+		<key>2618</key>
+		<dict>
+			<key>Track ID</key><integer>2618</integer>
+			<key>Size</key><integer>871670</integer>
+			<key>Total Time</key><integer>124656</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:08Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:45Z</date>
+			<key>Bit Rate</key><integer>56</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3553864270</integer>
+			<key>Play Date UTC</key><date>2016-08-12T15:31:10Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-07-28T03:12:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F561</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ain't No Sunshine</string>
+			<key>Artist</key><string>Bill Withers</string>
+			<key>Album Artist</key><string>Bill Withers</string>
+			<key>Album</key><string>Lean On Me: The Best of Bill Withers</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Withers, Bill</string>
+			<key>Sort Album Artist</key><string>Withers, Bill</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Cat%20Stevens/Unknown%20Album/17%20Ain't%20No%20Sunshine%20When%20She's%20Gone.mp3</string>
+		</dict>
+		<key>2620</key>
+		<dict>
+			<key>Track ID</key><integer>2620</integer>
+			<key>Size</key><integer>3555144</integer>
+			<key>Total Time</key><integer>221544</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:15Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3563797912</integer>
+			<key>Play Date UTC</key><date>2016-12-05T15:51:52Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-09-27T02:07:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F565</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Father and Son</string>
+			<key>Artist</key><string>Cat Stevens</string>
+			<key>Album Artist</key><string>Cat Stevens</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Stevens, Cat</string>
+			<key>Sort Album Artist</key><string>Stevens, Cat</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Cat%20Stevens/Unknown%20Album/Father%20and%20Son.mp3</string>
+		</dict>
+		<key>2622</key>
+		<dict>
+			<key>Track ID</key><integer>2622</integer>
+			<key>Size</key><integer>3217849</integer>
+			<key>Total Time</key><integer>200463</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:15Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3562587679</integer>
+			<key>Play Date UTC</key><date>2016-11-21T15:41:19Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2016-04-19T11:40:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F569</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wild World</string>
+			<key>Artist</key><string>Cat Stevens</string>
+			<key>Album Artist</key><string>Cat Stevens</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Stevens, Cat</string>
+			<key>Sort Album Artist</key><string>Stevens, Cat</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Cat%20Stevens/Unknown%20Album/Wild%20World.mp3</string>
+		</dict>
+		<key>2624</key>
+		<dict>
+			<key>Track ID</key><integer>2624</integer>
+			<key>Size</key><integer>3417404</integer>
+			<key>Total Time</key><integer>212507</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2011-07-28T23:17:05Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-12-27T04:39:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F56D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Kim Wilde</string>
+			<key>Artist</key><string>Charlotte Ash</string>
+			<key>Composer</key><string>Charlotte Hatherley</string>
+			<key>Album</key><string>The Best of XFM Sessions 2004</string>
+			<key>Genre</key><string>The best songs you will ever hear</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Album</key><string>Best of XFM Sessions 2004</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Charlotte%20Ash/The%20Best%20of%20XFM%20Sessions%202004/12%20Kim%20Wilde.m4a</string>
+		</dict>
+		<key>2626</key>
+		<dict>
+			<key>Track ID</key><integer>2626</integer>
+			<key>Size</key><integer>7125041</integer>
+			<key>Total Time</key><integer>442723</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2011-07-28T23:17:06Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2014-05-30T15:22:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F570</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cell Block Tango (He Had It Coming)</string>
+			<key>Artist</key><string>Chicago Soundtrack</string>
+			<key>Album</key><string>Chicago Movie Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Chicago%20Soundtrack/Chicago%20Movie%20Soundtrack/Cell%20Block%20Tango%20(He%20Had%20It%20Coming).mp3</string>
+		</dict>
+		<key>2628</key>
+		<dict>
+			<key>Track ID</key><integer>2628</integer>
+			<key>Size</key><integer>4911416</integer>
+			<key>Total Time</key><integer>305084</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:15Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-02-09T18:08:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F573</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All That Jazz</string>
+			<key>Artist</key><string>Bebe Neuwirth &#38; Company</string>
+			<key>Album Artist</key><string>Kander &#38; Ebb</string>
+			<key>Album</key><string>Chicago: The Musical</string>
+			<key>Genre</key><string>Musical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Neuwirth, Bebe &#38; Company</string>
+			<key>Sort Album Artist</key><string>Kander, John &#38; Ebb, Fred</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Chicago%20Soundtrack/Unknown%20Album/All%20That%20Jazz.mp3</string>
+		</dict>
+		<key>2630</key>
+		<dict>
+			<key>Track ID</key><integer>2630</integer>
+			<key>Size</key><integer>9801114</integer>
+			<key>Total Time</key><integer>243539</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:15Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3455442675</integer>
+			<key>Play Date UTC</key><date>2013-06-30T12:11:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-08-21T12:01:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F57B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>You Know My Name</string>
+			<key>Artist</key><string>Chris Cornell</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Best of Bond...James Bond 50th Anniversary Collection</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Cornell, Chris</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Chris%20Cornell/Bond%20-%20Casino%20Royale/You%20Know%20My%20Name.mp3</string>
+		</dict>
+		<key>2632</key>
+		<dict>
+			<key>Track ID</key><integer>2632</integer>
+			<key>Size</key><integer>7359689</integer>
+			<key>Total Time</key><integer>228257</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:15Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-09-17T17:13:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F57E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ain't No Other Man</string>
+			<key>Artist</key><string>Christina Aguilera</string>
+			<key>Album Artist</key><string>Christina Aguilera</string>
+			<key>Album</key><string>Back to Basics</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Artist</key><string>Aguilera, Christina</string>
+			<key>Sort Album Artist</key><string>Aguilera, Christina</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Christina%20Aguilara/Back%20To%20Basics/ain't%20no%20other%20man.mp3</string>
+		</dict>
+		<key>2634</key>
+		<dict>
+			<key>Track ID</key><integer>2634</integer>
+			<key>Size</key><integer>3845007</integer>
+			<key>Total Time</key><integer>238576</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:15Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3486986948</integer>
+			<key>Play Date UTC</key><date>2014-06-30T14:29:08Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-08-22T19:36:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F581</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Beautiful</string>
+			<key>Artist</key><string>Christina Aguilera</string>
+			<key>Album Artist</key><string>Christina Aguilera</string>
+			<key>Album</key><string>Stripped</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>© christinas_eyedol 2002</string>
+			<key>Sort Artist</key><string>Aguilera, Christina</string>
+			<key>Sort Album Artist</key><string>Aguilera, Christina</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Christina%20Aguilara/Stripped/11%20Beautiful.mp3</string>
+		</dict>
+		<key>2636</key>
+		<dict>
+			<key>Track ID</key><integer>2636</integer>
+			<key>Size</key><integer>3349441</integer>
+			<key>Total Time</key><integer>207830</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:15Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3473260612</integer>
+			<key>Play Date UTC</key><date>2014-01-22T18:36:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F584</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Say I</string>
+			<key>Artist</key><string>Christina Milian feat. Young Jeezy</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Mastermix Grandmaster R'N'B, Volume 6</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>Made with Sony ACID 4</string>
+			<key>Sort Artist</key><string>Milian, Christina feat. Young Jeezy</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Christina%20Milian%20ft.%20Young%20Jeeze/Unknown%20Album/Say%20I.mp3</string>
+		</dict>
+		<key>2638</key>
+		<dict>
+			<key>Track ID</key><integer>2638</integer>
+			<key>Size</key><integer>2454710</integer>
+			<key>Total Time</key><integer>149976</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>30</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2011-07-28T23:17:22Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:54Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3473977454</integer>
+			<key>Play Date UTC</key><date>2014-01-31T01:44:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F5F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nine To Five / Eple</string>
+			<key>Artist</key><string>Dolly Parton / Royksopp</string>
+			<key>Composer</key><string>Mix CD</string>
+			<key>Album</key><string>As Heard On Radio Soulwax Pt. 2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/As%20Heard%20On%20Radio%20Soulwax%20Pt.%202/18%20Nine%20To%20Five%20_%20Eple.m4a</string>
+		</dict>
+		<key>2640</key>
+		<dict>
+			<key>Track ID</key><integer>2640</integer>
+			<key>Size</key><integer>1655029</integer>
+			<key>Total Time</key><integer>100146</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>25</integer>
+			<key>Track Count</key><integer>30</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:16Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:54Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>86</integer>
+			<key>Play Date</key><integer>3546270023</integer>
+			<key>Play Date UTC</key><date>2016-05-16T18:00:23Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2015-04-01T22:39:13Z</date>
+			<key>Release Date</key><date>2002-06-18T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Loved</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F5FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hand to Phone</string>
+			<key>Artist</key><string>ADULT.</string>
+			<key>Album Artist</key><string>2 Many DJ's</string>
+			<key>Composer</key><string>Mix CD</string>
+			<key>Album</key><string>As Heard on Radio Soulwax, Part 2</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>ADULT.</string>
+			<key>Sort Album Artist</key><string>2 Many DJ's</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/As%20Heard%20On%20Radio%20Soulwax%20Pt.%202/25%20Hand%20To%20Phone.m4a</string>
+		</dict>
+		<key>2642</key>
+		<dict>
+			<key>Track ID</key><integer>2642</integer>
+			<key>Size</key><integer>3313385</integer>
+			<key>Total Time</key><integer>203683</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2011-07-28T23:19:12Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3558673958</integer>
+			<key>Play Date UTC</key><date>2016-10-07T07:32:38Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2016-12-23T21:01:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F604</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Set The Fire To The Third Bar</string>
+			<key>Artist</key><string>Snow Patrol Feat. Martha Wainwright</string>
+			<key>Composer</key><string>Snow Patrol</string>
+			<key>Album</key><string>Eyes Open</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Eyes%20Open/08%20Set%20The%20Fire%20To%20The%20Third%20Bar.m4a</string>
+		</dict>
+		<key>2644</key>
+		<dict>
+			<key>Track ID</key><integer>2644</integer>
+			<key>Size</key><integer>4610706</integer>
+			<key>Total Time</key><integer>230295</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-02-06T14:41:34Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:55Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3471552785</integer>
+			<key>Play Date UTC</key><date>2014-01-03T00:13:05Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-02-02T00:58:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F611</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>monks.mp3</string>
+			<key>Artist</key><string>Madness The Game</string>
+			<key>Album</key><string>Madness</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Comments</key><string>http://www.mmodule.com</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Madness/monks.mp3.mp3</string>
+		</dict>
+		<key>2646</key>
+		<dict>
+			<key>Track ID</key><integer>2646</integer>
+			<key>Size</key><integer>4674603</integer>
+			<key>Total Time</key><integer>284512</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:21Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:56Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3534760070</integer>
+			<key>Play Date UTC</key><date>2016-01-04T13:47:50Z</date>
+			<key>Release Date</key><date>2002-11-18T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F61B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Little by Little</string>
+			<key>Artist</key><string>Oasis</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Vanessa Carlton</string>
+			<key>Album</key><string>Now That's What I Call Music! 53</string>
+			<key>Genre</key><string>The best songs you will ever hear</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Oasis</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Now%2053%20%5BDisc%202%5D/2-02%20Little%20By%20Little.m4a</string>
+		</dict>
+		<key>2648</key>
+		<dict>
+			<key>Track ID</key><integer>2648</integer>
+			<key>Size</key><integer>3712836</integer>
+			<key>Total Time</key><integer>230874</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:21Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3508622104</integer>
+			<key>Play Date UTC</key><date>2015-03-08T01:15:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F62E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Piece by Piece</string>
+			<key>Artist</key><string>Feeder</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Play, Volume 1</string>
+			<key>Genre</key><string>The best songs you will ever hear</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Feeder</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Play%20vol%201/05%20Piece%20By%20Piece.m4a</string>
+		</dict>
+		<key>2650</key>
+		<dict>
+			<key>Track ID</key><integer>2650</integer>
+			<key>Size</key><integer>3625843</integer>
+			<key>Total Time</key><integer>224976</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:24Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3509902210</integer>
+			<key>Play Date UTC</key><date>2015-03-22T20:50:10Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2015-06-25T11:57:31Z</date>
+			<key>Release Date</key><date>2006-10-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F631</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Goodies</string>
+			<key>Artist</key><string>Ciara</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>The Collection: Autumn 2006</string>
+			<key>Genre</key><string>The best songs you will ever hear</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Album</key><string>Collection: Autumn 2006</string>
+			<key>Sort Artist</key><string>Ciara</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/R&#38;B%20Spring%202005/1-03%20Goodies.m4a</string>
+		</dict>
+		<key>2652</key>
+		<dict>
+			<key>Track ID</key><integer>2652</integer>
+			<key>Size</key><integer>3264986</integer>
+			<key>Total Time</key><integer>198018</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:24Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3491927733</integer>
+			<key>Play Date UTC</key><date>2014-08-26T18:55:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-02-09T18:30:35Z</date>
+			<key>Release Date</key><date>2007-07-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F709DD1E8CD6F636</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dip It Low</string>
+			<key>Artist</key><string>Christina Milian</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>R&#38;B Love Collection 2007</string>
+			<key>Genre</key><string>The best songs you will ever hear</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Milian, Christina</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/R&#38;B%20Spring%202005/1-08%20Dip%20it%20low.m4a</string>
+		</dict>
+		<key>2654</key>
+		<dict>
+			<key>Track ID</key><integer>2654</integer>
+			<key>Size</key><integer>4010363</integer>
+			<key>Total Time</key><integer>248986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:24Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Release Date</key><date>2005-03-07T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F63C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Hotel</string>
+			<key>Artist</key><string>Cassidy</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>Essential R&#38;B: The Very Best of R&#38;B: Spring 2005</string>
+			<key>Genre</key><string>The best songs you will ever hear</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Cassidy</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/R&#38;B%20Spring%202005/1-19%20Hotel.m4a</string>
+		</dict>
+		<key>2656</key>
+		<dict>
+			<key>Track ID</key><integer>2656</integer>
+			<key>Size</key><integer>3377379</integer>
+			<key>Total Time</key><integer>209442</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:24Z</date>
+			<key>Date Added</key><date>2008-03-03T22:42:59Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2016-11-03T03:36:46Z</date>
+			<key>Release Date</key><date>2005-03-07T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F64A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Oh Boy</string>
+			<key>Artist</key><string>Cam'ron feat. Juelz Santana</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Essential R&#38;B: The Very Best of R&#38;B: Spring 2005</string>
+			<key>Genre</key><string>The best songs you will ever hear</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Cam'ron feat. Santana, Juelz</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/R&#38;B%20Spring%202005%20(Disc%202)/2-09%20Oh%20boy.m4a</string>
+		</dict>
+		<key>2658</key>
+		<dict>
+			<key>Track ID</key><integer>2658</integer>
+			<key>Size</key><integer>3223485</integer>
+			<key>Total Time</key><integer>201306</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:25Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:00Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3531616341</integer>
+			<key>Play Date UTC</key><date>2015-11-29T04:32:21Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-11-27T13:48:08Z</date>
+			<key>Release Date</key><date>2006-10-16T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F650</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>With or Without You</string>
+			<key>Artist</key><string>Keane</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>Radio 1's Live Lounge</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Keane</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Radio%201's%20Live%20Lounge%20%5BDisc%202%5D/2-03%20With%20Or%20Without%20You.m4a</string>
+		</dict>
+		<key>2660</key>
+		<dict>
+			<key>Track ID</key><integer>2660</integer>
+			<key>Size</key><integer>3647339</integer>
+			<key>Total Time</key><integer>225186</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-01-09T23:01:28Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:02Z</date>
+			<key>Bit Rate</key><integer>127</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3517922513</integer>
+			<key>Play Date UTC</key><date>2015-06-23T15:41:53Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2015-10-26T02:03:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F666</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tranquilize (ft. Lou Reed)</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/01%20Tranquilize%20(ft.%20Lou%20Reed).m4a</string>
+		</dict>
+		<key>2662</key>
+		<dict>
+			<key>Track ID</key><integer>2662</integer>
+			<key>Size</key><integer>4058929</integer>
+			<key>Total Time</key><integer>247213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:25Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:02Z</date>
+			<key>Bit Rate</key><integer>129</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3506180443</integer>
+			<key>Play Date UTC</key><date>2015-02-07T19:00:43Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-04-02T17:36:58Z</date>
+			<key>Release Date</key><date>2007-11-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F66B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Shadowplay</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers, The</string>
+			<key>Sort Album Artist</key><string>Killers, The</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/02%20Shadowplay.m4a</string>
+		</dict>
+		<key>2664</key>
+		<dict>
+			<key>Track ID</key><integer>2664</integer>
+			<key>Size</key><integer>4713779</integer>
+			<key>Total Time</key><integer>285840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2011-07-28T23:18:35Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:02Z</date>
+			<key>Bit Rate</key><integer>130</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3520247988</integer>
+			<key>Play Date UTC</key><date>2015-07-20T13:39:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-10-26T02:03:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F66E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All The Pretty Faces</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/03%20All%20The%20Pretty%20Faces.m4a</string>
+		</dict>
+		<key>2666</key>
+		<dict>
+			<key>Track ID</key><integer>2666</integer>
+			<key>Size</key><integer>3526889</integer>
+			<key>Total Time</key><integer>218520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2011-07-28T23:18:35Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:02Z</date>
+			<key>Bit Rate</key><integer>127</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3526192652</integer>
+			<key>Play Date UTC</key><date>2015-09-27T08:57:32Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2015-10-26T02:03:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F671</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Leave The Bourbon On The Shelf</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/04%20Leave%20The%20Bourbon%20On%20The%20Shelf.m4a</string>
+		</dict>
+		<key>2668</key>
+		<dict>
+			<key>Track ID</key><integer>2668</integer>
+			<key>Size</key><integer>4112865</integer>
+			<key>Total Time</key><integer>258840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:25Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:02Z</date>
+			<key>Bit Rate</key><integer>125</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3516599518</integer>
+			<key>Play Date UTC</key><date>2015-06-08T08:11:58Z</date>
+			<key>Release Date</key><date>2007-11-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F674</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sweet Talk</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers, The</string>
+			<key>Sort Album Artist</key><string>Killers, The</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/05%20Sweet%20Talk.m4a</string>
+		</dict>
+		<key>2670</key>
+		<dict>
+			<key>Track ID</key><integer>2670</integer>
+			<key>Size</key><integer>2508735</integer>
+			<key>Total Time</key><integer>153560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2011-07-28T23:18:35Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:02Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3526187984</integer>
+			<key>Play Date UTC</key><date>2015-09-27T07:39:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F677</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Under The Gun</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/06%20Under%20The%20Gun.m4a</string>
+		</dict>
+		<key>2672</key>
+		<dict>
+			<key>Track ID</key><integer>2672</integer>
+			<key>Size</key><integer>3284479</integer>
+			<key>Total Time</key><integer>206186</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2011-07-28T23:18:36Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:02Z</date>
+			<key>Bit Rate</key><integer>125</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3520121601</integer>
+			<key>Play Date UTC</key><date>2015-07-19T02:33:21Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2012-07-29T20:21:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F67A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Where The White Boys Dance</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/07%20Where%20The%20White%20Boys%20Dance.m4a</string>
+		</dict>
+		<key>2674</key>
+		<dict>
+			<key>Track ID</key><integer>2674</integer>
+			<key>Size</key><integer>2714696</integer>
+			<key>Total Time</key><integer>166213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:25Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3517922680</integer>
+			<key>Play Date UTC</key><date>2015-06-23T15:44:40Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2015-04-01T18:54:03Z</date>
+			<key>Release Date</key><date>2007-11-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F680</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Show You How</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers, The</string>
+			<key>Sort Album Artist</key><string>Killers, The</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/08%20Show%20You%20How.m4a</string>
+		</dict>
+		<key>2676</key>
+		<dict>
+			<key>Track ID</key><integer>2676</integer>
+			<key>Size</key><integer>3662905</integer>
+			<key>Total Time</key><integer>229986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:25Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:04Z</date>
+			<key>Bit Rate</key><integer>125</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3489949386</integer>
+			<key>Play Date UTC</key><date>2014-08-03T21:23:06Z</date>
+			<key>Release Date</key><date>2007-11-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F685</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Move Away</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers, The</string>
+			<key>Sort Album Artist</key><string>Killers, The</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/09%20Move%20Away.m4a</string>
+		</dict>
+		<key>2678</key>
+		<dict>
+			<key>Track ID</key><integer>2678</integer>
+			<key>Size</key><integer>4109424</integer>
+			<key>Total Time</key><integer>256573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:25Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:05Z</date>
+			<key>Bit Rate</key><integer>126</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>80</integer>
+			<key>Play Date</key><integer>3515253242</integer>
+			<key>Play Date UTC</key><date>2015-05-23T18:14:02Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2010-02-20T01:36:49Z</date>
+			<key>Release Date</key><date>2007-11-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F688</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Glamorous Indie Rock and Roll</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers, The</string>
+			<key>Sort Album Artist</key><string>Killers, The</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/10%20Glamorous%20Indie%20Rock%20&#38;%20Roll.m4a</string>
+		</dict>
+		<key>2680</key>
+		<dict>
+			<key>Track ID</key><integer>2680</integer>
+			<key>Size</key><integer>3517902</integer>
+			<key>Total Time</key><integer>222906</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:25Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:05Z</date>
+			<key>Bit Rate</key><integer>124</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3425296612</integer>
+			<key>Play Date UTC</key><date>2012-07-16T14:16:52Z</date>
+			<key>Release Date</key><date>2007-11-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F68B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Who Let You Go?</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers, The</string>
+			<key>Sort Album Artist</key><string>Killers, The</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/11%20Who%20Let%20You%20Go.m4a</string>
+		</dict>
+		<key>2682</key>
+		<dict>
+			<key>Track ID</key><integer>2682</integer>
+			<key>Size</key><integer>3767074</integer>
+			<key>Total Time</key><integer>230346</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2011-07-28T23:18:36Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:06Z</date>
+			<key>Bit Rate</key><integer>129</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3520194085</integer>
+			<key>Play Date UTC</key><date>2015-07-19T22:41:25Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-12-24T11:11:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F68E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Ballad Of Michael Valentine</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Name</key><string>Ballad Of Michael Valentine</string>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/12%20The%20Ballad%20Of%20Michael%20Valentine.m4a</string>
+		</dict>
+		<key>2684</key>
+		<dict>
+			<key>Track ID</key><integer>2684</integer>
+			<key>Size</key><integer>2925317</integer>
+			<key>Total Time</key><integer>185173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:25Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:06Z</date>
+			<key>Bit Rate</key><integer>124</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3520853371</integer>
+			<key>Play Date UTC</key><date>2015-07-27T13:49:31Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-04-17T22:10:50Z</date>
+			<key>Release Date</key><date>2007-11-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F691</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Ruby, Don't Take Your Love to Town</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers, The</string>
+			<key>Sort Album Artist</key><string>Killers, The</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/13%20Ruby%20Don't%20Take%20Your%20Love%20To%20Town.m4a</string>
+		</dict>
+		<key>2686</key>
+		<dict>
+			<key>Track ID</key><integer>2686</integer>
+			<key>Size</key><integer>4188380</integer>
+			<key>Total Time</key><integer>254800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:25Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:06Z</date>
+			<key>Bit Rate</key><integer>129</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3452854497</integer>
+			<key>Play Date UTC</key><date>2013-05-31T13:14:57Z</date>
+			<key>Release Date</key><date>2007-11-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F694</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Daddy's Eyes</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers, The</string>
+			<key>Sort Album Artist</key><string>Killers, The</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/14%20Daddy's%20Eyes.m4a</string>
+		</dict>
+		<key>2688</key>
+		<dict>
+			<key>Track ID</key><integer>2688</integer>
+			<key>Size</key><integer>3537609</integer>
+			<key>Total Time</key><integer>225266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:25Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:06Z</date>
+			<key>Bit Rate</key><integer>123</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3438769363</integer>
+			<key>Play Date UTC</key><date>2012-12-19T13:42:43Z</date>
+			<key>Release Date</key><date>2007-11-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F697</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sam's Town (Abbey Road version)</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers, The</string>
+			<key>Sort Album Artist</key><string>Killers, The</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/15%20Sam's%20Town%20%5BLive%20From%20Abbey%20Road%5D.m4a</string>
+		</dict>
+		<key>2690</key>
+		<dict>
+			<key>Track ID</key><integer>2690</integer>
+			<key>Size</key><integer>5187114</integer>
+			<key>Total Time</key><integer>329680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:01Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:07Z</date>
+			<key>Bit Rate</key><integer>124</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3542552126</integer>
+			<key>Play Date UTC</key><date>2016-04-03T17:15:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F69A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Romeo and Juliet (Live at Abbey Road Studios)</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>[non-album tracks]</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers, The</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/16%20Romeo%20And%20Juliet%20%5BLive%20From%20Abbey%20Road%5D.m4a</string>
+		</dict>
+		<key>2692</key>
+		<dict>
+			<key>Track ID</key><integer>2692</integer>
+			<key>Size</key><integer>3134235</integer>
+			<key>Total Time</key><integer>193026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:25Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3517868244</integer>
+			<key>Play Date UTC</key><date>2015-06-23T00:37:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-04-01T18:54:25Z</date>
+			<key>Release Date</key><date>2007-11-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F69D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Change Your Mind</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers, The</string>
+			<key>Sort Album Artist</key><string>Killers, The</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/17%20Change%20Your%20Mind.m4a</string>
+		</dict>
+		<key>2694</key>
+		<dict>
+			<key>Track ID</key><integer>2694</integer>
+			<key>Size</key><integer>9437028</integer>
+			<key>Total Time</key><integer>639746</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:25Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:07Z</date>
+			<key>Bit Rate</key><integer>116</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3391177987</integer>
+			<key>Play Date UTC</key><date>2011-06-17T16:53:07Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2015-10-26T02:04:09Z</date>
+			<key>Release Date</key><date>2007-11-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F6A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mr. Brightside (Jacques Lu Cont's Thin White Duke remix)</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album Artist</key><string>The Killers</string>
+			<key>Composer</key><string>The Killers</string>
+			<key>Album</key><string>Sawdust</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Killers, The</string>
+			<key>Sort Album Artist</key><string>Killers, The</string>
+			<key>Sort Composer</key><string>Killers</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Sawdust/18%20Mr%20Brightside%20(Jacques%20Lu%20Cont's%20Thin%20White%20Duke%20Remix).m4a</string>
+		</dict>
+		<key>2696</key>
+		<dict>
+			<key>Track ID</key><integer>2696</integer>
+			<key>Size</key><integer>3701232</integer>
+			<key>Total Time</key><integer>228738</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2016-11-03T03:27:26Z</date>
+			<key>Date Added</key><date>2008-03-03T22:43:08Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>1</integer>
+			<key>Play Count</key><integer>52</integer>
+			<key>Play Date</key><integer>3565108474</integer>
+			<key>Play Date UTC</key><date>2016-12-20T19:54:34Z</date>
+			<key>Release Date</key><date>2005-05-02T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F709DD1E8CD6F6A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Breathe</string>
+			<key>Artist</key><string>Blu Cantrell feat. Sean Paul</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Slow Jamz: Summer R&#38;B Anthems</string>
+			<key>Genre</key><string>The best songs you will ever hear</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Sort Artist</key><string>Cantrell, Blu feat. Paul, Sean</string>
+			<key>Sort Album Artist</key><string>Various Artists</string>
+			<key>Location</key><string>file:///Users/Will/Music/iTunes/iTunes%20Music/Music/Compilations/Slow%20Jamz%20-%20Summer%20R&#38;B%20Anthems%20%5BDisc%201%5D/1-06%20Breathe.m4a</string>
+		</dict>
