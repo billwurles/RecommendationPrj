@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_0bfe834072ab242df3a8acbf77d360b4a5baabcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_cdd926a4ae0de09f8b00914f69afd7b2d5255a41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_1cd6d6afd9dfc53d7cbeea5c911d12864d8506a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_35b0948f46fd8bdabc28a8fbf10c9f608d7cbdae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_1bb6d699345250fa10ae379b4e7da8a2da371c3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_f1a44a6829660a5d6288ae2545cc4840285fde28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_eab43e3c5818e03520ef897b5a318b5e241bbcd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_6b0b2ad35ab8146861593f60b6483ef70ddc3217/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_9f12d9f15af6045fe62a9584b46a084926198d68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_7d45996f7dc163d3a3d8b010cd9a9a59814788c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_1da3d758f43092335032d4149f90b97bcf7e1521/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_53a9181e0cdce58f90c47e1bbb830ed87c82e68a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2b21b7ed1e846437062f63e5093298fc837b746a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_b8b978bfc37a28fae43c523aa6909a5d109dd785/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_025e19cf51345051e108a6d00c8190e77ec2c06b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0caa35b4760af14eb1eac3576176d02f3280c3a">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d3bb22b1c89c87e13ee434ce957fe4ace780e399/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_b497203a57f3e34536007d6e4a781a5e84eec2bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_c0b98e7a7b9dc0965d865f5abfa3997fc4a76042/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_1a80944d9e42fab904ae9df98efb9e33e3ec74d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f527761b9544d88f54c4fc89171bcf2b50b9983a">
+        <dex dex="/Users/Will/Google Drive/Dissertation/System/MusicRec/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_52711f1bcd93809d600701f5ecf892bb774c72ed/classes.dex" />
+    </item>
+
+</items>
