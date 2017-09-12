@@ -1,0 +1,163 @@
+<<GENRES>>
+Folk
+Indie
+Rock
+Punk Rock
+Alternative & Punk
+Hard Rock
+Metal
+Death Metal
+Industrial Metal
+Alternative
+Rock/Pop
+Dance Pop
+Electronic
+Electronica/Dance
+New Wave
+House
+Dubstep
+Trance
+Disco
+Drum & Bass/Breaks
+Electronica, Alternative Rock
+Electronica
+Reggae
+Jazz
+Blues
+Funk & Disco & Soul
+R&B
+Rap & Hip-Hop
+Hip-Hop/Rap
+Hip Hop/Rap
+Rap & Hip Hop
+Rap
+Rap Metal
+<<RELATIONSHIPS>>
+Folk--Indie[label="6",weight="6"]
+Folk--Rock[label="7",weight="7"]
+Folk--Alternative[label="4",weight="4"]
+Folk--Rock/Pop[label="5",weight="5"]
+Folk--Reggae[label="2",weight="2"]
+Indie--Rock[label="8",weight="8"]
+Indie--Punk Rock[label="2",weight="2"]
+Indie--Alternative[label="4",weight="4"]
+Indie--Rock/Pop[label="5",weight="5"]
+Rock--Punk Rock[label="6",weight="6"]
+Rock--Alternative & Punk[label="3",weight="3"]
+Rock--Hard Rock[label="7",weight="7"]
+Rock--Metal[label="3",weight="3"]
+Rock--Death Metal[label="1",weight="1"]
+Rock--Alternative[label="4",weight="4"]
+Rock--Rock/Pop[label="9",weight="9"]
+Rock--Dance Pop[label="3",weight="3"]
+Rock--Electronic[label="1",weight="1"]
+Rock--Reggae[label="3",weight="3"]
+Rock--Jazz[label="4",weight="4"]
+Rock--Blues[label="2",weight="2"]
+Rock--Rap Metal[label="4",weight="4"]
+Rock--Rap[label="2",weight="2"]
+Rock--R&B[label="4",weight="4"]
+Rock--New Wave[label="6",weight="6"]
+Punk Rock--Alternative & Punk[label="9",weight="9"]
+Punk Rock--Hard Rock[label="8",weight="8"]
+Punk Rock--Metal[label="7",weight="7"]
+Punk Rock--Death Metal[label="5",weight="5"]
+Punk Rock--Industrial Metal[label="4",weight="4"]
+Punk Rock--Alternative[label="8",weight="8"]
+Punk Rock--Rock/Pop[label="2",weight="2"]
+Punk Rock--Rap Metal[label="3",weight="3"]
+Alternative & Punk--Hard Rock[label="8",weight="8"]
+Alternative & Punk--Metal[label="6",weight="6"]
+Alternative & Punk--Death Metal[label="5",weight="5"]
+Alternative & Punk--Industrial Metal[label="4",weight="4"]
+Alternative & Punk--Alternative[label="9",weight="9"]
+Alternative & Punk--Rock/Pop[label="5",weight="5"]
+Hard Rock--Metal[label="8",weight="8"]
+Hard Rock--Death Metal[label="5",weight="5"]
+Hard Rock--Industrial Metal[label="4",weight="4"]
+Hard Rock--Alternative[label="7",weight="7"]
+Hard Rock--Rock/Pop[label="5",weight="5"]
+Hard Rock--Rap Metal[label="6",weight="6"]
+Metal--Death Metal[label="7",weight="7"]
+Metal--Industrial Metal[label="8",weight="8"]
+Metal--Alternative[label="4",weight="4"]
+Metal--Rap Metal[label="7",weight="7"]
+Metal--Rock/Pop[label="3",weight="3"]
+Rock/Pop--Dance Pop[label="5",weight="5"]
+Rock/Pop--Electronic[label="1",weight="1"]
+Rock/Pop--Disco[label="4",weight="4"]
+Rock/Pop--R&B[label="3",weight="3"]
+Rock/Pop--Hip-Hop/Rap[label="3",weight="3"]
+Rock/Pop--Rap & Hip-Hop[label="3",weight="3"]
+Rock/Pop--Rap & Hip Hop[label="3",weight="3"]
+Dance Pop--Electronic[label="7",weight="7"]
+Dance Pop--Electronica/Dance[label="8",weight="8"]
+Dance Pop--New Wave[label="3",weight="3"]
+Dance Pop--House[label="6",weight="6"]
+Dance Pop--Dubstep[label="5",weight="5"]
+Dance Pop--Trance[label="6",weight="6"]
+Dance Pop--Disco[label="7",weight="7"]
+Dance Pop--Drum & Bass/Breaks[label="3",weight="3"]
+Dance Pop--Electronica[label="5",weight="5"]
+Electronic--Electronica/Dance[label="8",weight="8"]
+Electronic--New Wave[label="4",weight="4"]
+Electronic--House[label="7",weight="7"]
+Electronic--Dubstep[label="8",weight="8"]
+Electronic--Trance[label="8",weight="8"]
+Electronic--Disco[label="5",weight="5"]
+Electronic--Drum & Bass/Breaks[label="4",weight="4"]
+Electronic--Electronica, Alternative Rock[label="3",weight="3"]
+Electronic--Electronica[label="8",weight="8"]
+Electronica/Dance--New Wave[label="3",weight="3"]
+Electronica/Dance--House[label="6",weight="6"]
+Electronica/Dance--Disco[label="5",weight="5"]
+Electronica/Dance--Drum & Bass/Breaks[label="6",weight="6"]
+Electronica/Dance--Electronica, Alternative Rock[label="6",weight="6"]
+Electronica/Dance--Electronica[label="9",weight="9"]
+New Wave--Disco[label="4",weight="4"]
+House--Dubstep[label="5",weight="5"]
+House--Trance[label="8",weight="8"]
+House--Disco[label="2",weight="2"]
+House--Drum & Bass/Breaks[label="6",weight="6"]
+House--Electronica[label="8",weight="8"]
+House--R&B[label="4",weight="4"]
+Dubstep--Trance[label="4",weight="4"]
+Dubstep--Drum & Bass/Breaks[label="8",weight="8"]
+Dubstep--Electronica[label="3",weight="3"]
+Dubstep--Reggae[label="3",weight="3"]
+Trance--Disco[label="4",weight="4"]
+Trance--Drum & Bass/Breaks[label="5",weight="5"]
+Disco--Electronica[label="4",weight="4"]
+Disco--Jazz[label="2",weight="2"]
+Disco--R&B[label="5",weight="5"]
+Disco--Blues[label="1",weight="1"]
+Disco--Funk & Disco & Soul[label="5",weight="5"]
+Drum & Bass/Breaks--Electronica[label="5",weight="5"]
+Electronica--Electronica, Alternative Rock[label="8",weight="8"]
+Reggae--Jazz[label="7",weight="7"]
+Reggae--Blues[label="6",weight="6"]
+Reggae--Funk & Disco & Soul[label="6",weight="6"]
+Reggae--R&B[label="4",weight="4"]
+Jazz--Blues[label="8",weight="8"]
+Jazz--Funk & Disco & Soul[label=7"",weight="7"]
+Jazz--R&B[label="3",weight="3"]
+Jazz--Rap[label="1",weight="1"]
+Blues--Funk & Disco & Soul[label="5",weight="5"]
+Blues--R&B[label="7",weight="7"]
+Blues--Hip-Hop/Rap[label="2",weight="2"]
+R&B--Funk & Disco & Soul[label="6",weight="6"]
+R&B--Rap & Hip-Hop[label="7",weight="7"]
+R&B--Hip-Hop/Rap[label="7",weight="7"]
+R&B--Rap & Hip Hop[label="7",weight="7"]
+R&B--Rap[label="8",weight="8"]
+R&B--Rap Metal[label="2",weight="2"]
+Rap--Rap & Hip-Hop[label="8",weight="8"]
+Rap--Hip-Hop/Rap[label="8",weight="8"]
+Rap--Rap & Hip Hop[label="8",weight="8"]
+Rap--Rap Metal[label="5",weight="5"]
+Rap & Hip-Hop--Hip-Hop/Rap[label="10",weight="10"]
+Rap & Hip-Hop--Rap & Hip Hop[label="10",weight="10"]
+Rap & Hip-Hop--Hip Hop/Rap[label="10",weight="10"]
+Hip-Hop/Rap--Rap & Hip Hop[label="10",weight="10"]
+Hip-Hop/Rap--Hip Hop/Rap[label="10",weight="10"]
+Rap & Hip Hop--Hip Hop/Rap[label="10",weight="10"]

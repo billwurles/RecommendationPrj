@@ -1,0 +1,185 @@
+graph genre {
+	Folk
+	Indie
+	Rock
+	Punk_Rock
+	Alternative_&_Punk
+	Hard_Rock
+	Metal
+	Death_Metal
+	Industrial_Metal
+	Alternative
+	Rock/Pop
+	
+	Dance_Pop
+	Electronic
+	Electronica/Dance
+	New_Wave
+	House
+	Dubstep
+	Trance
+	Disco
+	Drum_&_Bass/Breaks
+	Electronica,_Alternative_Rock
+	Electronica
+	
+	Reggae
+	Jazz
+	Blues
+	Funk_&_Disco_&_Soul
+	R&B
+	Rap_&_Hip-Hop
+	Hip-Hop/Rap
+	Rap_&_Hip_Hop
+	Rap
+	Rap_Metal
+	
+Folk -- Indie [label="6",weight="6"]
+Folk -- Rock [label="7",weight="7"]
+Folk -- Alternative [label="4",weight="4"]
+Folk -- Rock/Pop [label="5",weight="5"]
+Folk -- Reggae [label="2",weight="2"]
+
+Indie -- Rock [label="8",weight="8"]
+Indie -- Punk_Rock [label="2",weight="2"]
+Indie -- Alternative [label="4",weight="4"]
+Indie -- Rock/Pop [label="5",weight="5"]
+
+Rock -- Punk_Rock [label="6",weight="6"]
+Rock -- Alternative_&_Punk [label="3",weight="3"]
+Rock -- Hard_Rock [label="7",weight="7"]
+Rock -- Metal [label="3",weight="3"]
+Rock -- Death_Metal [label="1",weight="1"]
+Rock -- Alternative [label="4",weight="4"]
+Rock -- Rock/Pop [label="9",weight="9"]
+Rock -- Dance_Pop [label="3",weight="3"]
+Rock -- Electronic [label="1",weight="1"]
+Rock -- Reggae [label="3",weight="3"]
+Rock -- Jazz [label="4",weight="4"]
+Rock -- Blues [label="2",weight="2"]
+Rock -- Rap_Metal [label="4",weight="4"]
+Rock -- Rap [label="2",weight="2"]
+Rock -- R&B [label="4",weight="4"]
+Rock -- New_Wave [label="6",weight="6"]
+
+Punk_Rock -- Alternative_&_Punk [label="9",weight="9"]
+Punk_Rock -- Hard_Rock [label="8",weight="8"]
+Punk_Rock -- Metal [label="7",weight="7"]
+Punk_Rock -- Death_Metal [label="5",weight="5"]
+Punk_Rock -- Industrial_Metal [label="4",weight="4"]
+Punk_Rock -- Alternative [label="8",weight="8"]
+Punk_Rock -- Rock/Pop [label="2",weight="2"]
+Punk_Rock -- Rap_Metal [label="3",weight="3"]
+
+Alternative_&_Punk -- Hard_Rock [label="8",weight="8"]
+Alternative_&_Punk -- Metal [label="6",weight="6"]
+Alternative_&_Punk -- Death_Metal [label="5",weight="5"]
+Alternative_&_Punk -- Industrial_Metal [label="4",weight="4"]
+Alternative_&_Punk -- Alternative [label="9",weight="9"]
+Alternative_&_Punk -- Rock/Pop [label="5",weight="5"]
+
+Hard_Rock -- Metal [label="8",weight="8"]
+Hard_Rock -- Death_Metal [label="5",weight="5"]
+Hard_Rock -- Industrial_Metal [label="4",weight="4"]
+Hard_Rock -- Alternative [label="7",weight="7"]
+Hard_Rock -- Rock/Pop [label="5",weight="5"]
+Hard_Rock -- Rap_Metal [label="6",weight="6"]
+
+Metal -- Death_Metal [label="7",weight="7"]
+Metal -- Industrial_Metal [label="8",weight="8"]
+Metal -- Alternative [label="4",weight="4"]
+Metal -- Rap_Metal [label="7",weight="7"]
+Metal -- Rock/Pop [label="3",weight="3"]
+
+Rock/Pop -- Dance_Pop [label="5",weight="5"]
+Rock/Pop -- Electronic [label="1",weight="1"]
+Rock/Pop -- Disco [label="4",weight="4"]
+Rock/Pop -- R&B [label="3",weight="3"]
+Rock/Pop -- Hip-Hop/Rap [label="3",weight="3"]
+Rock/Pop -- Rap_&_Hip-Hop [label="3",weight="3"]
+Rock/Pop -- Rap_&_Hip_Hop [label="3",weight="3"]
+
+Dance_Pop -- Electronic [label="7",weight="7"]
+Dance_Pop -- Electronica/Dance [label="8",weight="8"]
+Dance_Pop -- New_Wave [label="3",weight="3"]
+Dance_Pop -- House [label="6",weight="6"]
+Dance_Pop -- Dubstep [label="5",weight="5"]
+Dance_Pop -- Trance [label="6",weight="6"]
+Dance_Pop -- Disco [label="7",weight="7"]
+Dance_Pop -- Drum_&_Bass/Breaks [label="3",weight="3"]
+Dance_Pop -- Electronica [label="5",weight="5"]
+
+Electronic -- Electronica/Dance [label="8",weight="8"]
+Electronic -- New_Wave [label="4",weight="4"]
+Electronic -- House [label="7",weight="7"]
+Electronic -- Dubstep [label="8",weight="8"]
+Electronic -- Trance [label="8",weight="8"]
+Electronic -- Disco [label="5",weight="5"]
+Electronic -- Drum_&_Bass/Breaks [label="4",weight="4"]
+Electronic -- Electronica,_Alternative_Rock [label="3",weight="3"]
+Electronic -- Electronica [label="8",weight="8"]
+
+Electronica/Dance -- New_Wave [label="3",weight="3"]
+Electronica/Dance -- House [label="6",weight="6"]
+Electronica/Dance -- Disco [label="5",weight="5"]
+Electronica/Dance -- Drum_&_Bass/Breaks [label="6",weight="6"]
+Electronica/Dance -- Electronica,_Alternative_Rock [label="6",weight="6"]
+Electronica/Dance -- Electronica [label="9",weight="9"]
+
+New_Wave -- Disco [label="4",weight="4"]
+
+House -- Dubstep [label="5",weight="5"]
+House -- Trance [label="8",weight="8"]
+House -- Disco [label="2",weight="2"]
+House -- Drum_&_Bass/Breaks [label="6",weight="6"]
+House -- Electronica [label="8",weight="8"]
+House -- R&B [label="4",weight="4"]
+
+Dubstep -- Trance [label="4",weight="4"]
+Dubstep -- Drum_&_Bass/Breaks [label="8",weight="8"]
+Dubstep -- Electronica [label="3",weight="3"]
+Dubstep -- Reggae [label="3",weight="3"]
+
+Trance -- Disco [label="4",weight="4"]
+Trance -- Drum_&_Bass/Breaks [label="5",weight="5"]
+
+Disco -- Electronica [label="4",weight="4"]
+Disco -- Jazz [label="2",weight="2"]
+Disco -- R&B [label="5",weight="5"]
+Disco -- Blues [label="1",weight="1"]
+Disco -- Funk_&_Disco_&_Soul [label="5",weight="5"]
+
+Drum_&_Bass/Breaks -- Electronica [label="5",weight="5"]
+Electronica -- Electronica,_Alternative_Rock [label="8",weight="8"]
+
+Reggae -- Jazz [label="7",weight="7"]
+Reggae -- Blues [label="6",weight="6"]
+Reggae -- Funk_&_Disco_&_Soul [label="6",weight="6"]
+Reggae -- R&B [label="4",weight="4"]
+
+Jazz -- Blues [label="8",weight="8"]
+Jazz -- Funk_&_Disco_&_Soul [label=7"",weight="7"]
+Jazz -- R&B [label="3",weight="3"]
+Jazz -- Rap [label="1",weight="1"]
+
+Blues -- Funk_&_Disco_&_Soul [label="5",weight="5"]
+Blues -- R&B [label="7",weight="7"]
+Blues -- Hip-Hop/Rap [label="2",weight="2"]
+
+R&B -- Funk_&_Disco_&_Soul [label="6",weight="6"]
+R&B -- Rap_&_Hip-Hop [label="7",weight="7"]
+R&B -- Hip-Hop/Rap [label="7",weight="7"]
+R&B -- Rap_&_Hip_Hop [label="7",weight="7"]
+R&B -- Rap [label="8",weight="8"]
+R&B -- Rap_Metal [label="2",weight="2"]
+
+Rap -- Rap_&_Hip-Hop [label="8",weight="8"]
+Rap -- Hip-Hop/Rap [label="8",weight="8"]
+Rap -- Rap_&_Hip_Hop [label="8",weight="8"]
+Rap -- Rap_Metal [label="5",weight="5"]
+
+Rap_&_Hip-Hop -- Hip-Hop/Rap [label="10",weight="10"]
+Rap_&_Hip-Hop -- Rap_&_Hip_Hop [label="10",weight="10"]
+Hip-Hop/Rap -- Rap_&_Hip_Hop [label="10",weight="10"]
+
+}
