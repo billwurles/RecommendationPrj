@@ -1,0 +1,413 @@
+Folk--Indie--4
+Folk--Rock--3
+Folk--Alternative--6
+Folk--Rock/Pop--5
+Folk--Reggae--8
+Indie--Folk--4
+Indie--Rock--2
+Indie--Punk Rock--8
+Indie--Alternative--6
+Indie--Rock/Pop--5
+Rock--Folk--3
+Rock--Indie--2
+Rock--Punk Rock--4
+Rock--Alternative & Punk--7
+Rock--Hard Rock--3
+Rock--Metal--7
+Rock--Death Metal--9
+Rock--Alternative--6
+Rock--Rock/Pop--1
+Rock--Dance Pop--7
+Rock--Electronic--9
+Rock--New Wave--4
+Rock--Reggae--7
+Rock--Jazz--6
+Rock--Blues--8
+Rock--R&B--6
+Rock--Rap--8
+Rock--Rap Metal--6
+Punk Rock--Indie--8
+Punk Rock--Rock--4
+Punk Rock--Alternative & Punk--1
+Punk Rock--Hard Rock--2
+Punk Rock--Metal--3
+Punk Rock--Death Metal--5
+Punk Rock--Industrial Metal--6
+Punk Rock--Alternative--2
+Punk Rock--Rock/Pop--8
+Punk Rock--Rap Metal--7
+Alternative & Punk--Rock--7
+Alternative & Punk--Punk Rock--1
+Alternative & Punk--Hard Rock--2
+Alternative & Punk--Metal--4
+Alternative & Punk--Death Metal--5
+Alternative & Punk--Industrial Metal--6
+Alternative & Punk--Alternative--1
+Alternative & Punk--Rock/Pop--5
+Hard Rock--Rock--3
+Hard Rock--Punk Rock--2
+Hard Rock--Alternative & Punk--2
+Hard Rock--Metal--2
+Hard Rock--Death Metal--5
+Hard Rock--Industrial Metal--6
+Hard Rock--Alternative--3
+Hard Rock--Rock/Pop--5
+Hard Rock--Rap Metal--4
+Metal--Rock--7
+Metal--Punk Rock--3
+Metal--Alternative & Punk--4
+Metal--Hard Rock--2
+Metal--Death Metal--3
+Metal--Industrial Metal--2
+Metal--Alternative--6
+Metal--Rock/Pop--7
+Metal--Rap Metal--3
+Death Metal--Rock--9
+Death Metal--Punk Rock--5
+Death Metal--Alternative & Punk--5
+Death Metal--Hard Rock--5
+Death Metal--Metal--3
+Industrial Metal--Punk Rock--6
+Industrial Metal--Alternative & Punk--6
+Industrial Metal--Hard Rock--6
+Industrial Metal--Metal--2
+Alternative--Folk--6
+Alternative--Indie--6
+Alternative--Rock--6
+Alternative--Punk Rock--2
+Alternative--Alternative & Punk--1
+Alternative--Hard Rock--3
+Alternative--Metal--6
+Rock/Pop--Folk--5
+Rock/Pop--Indie--5
+Rock/Pop--Rock--1
+Rock/Pop--Punk Rock--8
+Rock/Pop--Alternative & Punk--5
+Rock/Pop--Hard Rock--5
+Rock/Pop--Metal--7
+Rock/Pop--Dance Pop--5
+Rock/Pop--Electronic--9
+Rock/Pop--Disco--6
+Rock/Pop--R&B--7
+Rock/Pop--Rap & Hip-Hop--7
+Rock/Pop--Hip-Hop/Rap--7
+Rock/Pop--Rap & Hip Hop--7
+Dance Pop--Rock--7
+Dance Pop--Rock/Pop--5
+Dance Pop--Electronic--3
+Dance Pop--Electronica/Dance--2
+Dance Pop--New Wave--7
+Dance Pop--House--4
+Dance Pop--Dubstep--5
+Dance Pop--Trance--4
+Dance Pop--Disco--3
+Dance Pop--Drum & Bass/Breaks--7
+Dance Pop--Electronica--5
+Electronic--Rock--9
+Electronic--Rock/Pop--9
+Electronic--Dance Pop--3
+Electronic--Electronica/Dance--2
+Electronic--New Wave--6
+Electronic--House--3
+Electronic--Dubstep--2
+Electronic--Trance--2
+Electronic--Disco--5
+Electronic--Drum & Bass/Breaks--6
+Electronic--Electronica, Alternative Rock--7
+Electronic--Electronica--2
+Electronica/Dance--Dance Pop--2
+Electronica/Dance--Electronic--2
+Electronica/Dance--New Wave--7
+Electronica/Dance--House--4
+Electronica/Dance--Disco--5
+Electronica/Dance--Drum & Bass/Breaks--4
+Electronica/Dance--Electronica, Alternative Rock--4
+Electronica/Dance--Electronica--1
+New Wave--Rock--4
+New Wave--Dance Pop--7
+New Wave--Electronic--6
+New Wave--Electronica/Dance--7
+New Wave--Disco--6
+House--Dance Pop--4
+House--Electronic--3
+House--Electronica/Dance--4
+House--Dubstep--5
+House--Trance--2
+House--Disco--8
+House--Drum & Bass/Breaks--4
+House--Electronica--2
+House--R&B--6
+Dubstep--Dance Pop--5
+Dubstep--Electronic--2
+Dubstep--House--5
+Dubstep--Trance--6
+Dubstep--Drum & Bass/Breaks--2
+Dubstep--Electronica--7
+Dubstep--Reggae--7
+Trance--Electronic--3
+Trance--House--2
+Trance--Dubstep--6
+Trance--Disco--6
+Trance--Drum & Bass/Breaks--5
+Disco--Rock/Pop--6
+Disco--Dance Pop--3
+Disco--Electronic--5
+Disco--Electronica/Dance--5
+Disco--New Wave--6
+Disco--House--8
+Disco--Trance--6
+Disco--Electronica--6
+Disco--Jazz--8
+Disco--Blues--9
+Disco--Funk & Disco & Soul--5
+Disco--R&B--5
+Drum & Bass/Breaks--Dance Pop--7
+Drum & Bass/Breaks--Electronic--6
+Drum & Bass/Breaks--Electronica/Dance--4
+Drum & Bass/Breaks--House--4
+Drum & Bass/Breaks--Dubstep--2
+Drum & Bass/Breaks--Trance--5
+Drum & Bass/Breaks--Electronica--5
+Electronica, Alternative Rock--Electronic--7
+Electronica, Alternative Rock--Electronica/Dance--4
+Electronica, Alternative Rock--Electronica--2
+Electronica--Dance Pop--5
+Electronica--Electronic--2
+Electronica--Electronica/Dance--1
+Electronica--House--2
+Electronica--Dubstep--7
+Electronica--Disco--6
+Electronica--Drum & Bass/Breaks--5
+Electronica--Electronica, Alternative Rock--2
+Reggae--Folk--8
+Reggae--Rock--7
+Reggae--Dubstep--7
+Reggae--Jazz--3
+Reggae--Blues--4
+Reggae--Funk & Disco & Soul--4
+Reggae--R&B--6
+Jazz--Rock--6
+Jazz--Disco--8
+Jazz--Reggae--3
+Jazz--Blues--2
+Jazz--Funk & Disco & Soul--3
+Jazz--R&B--7
+Jazz--Rap--9
+Blues--Rock--8
+Blues--Disco--9
+Blues--Reggae--4
+Blues--Jazz--2
+Blues--Funk & Disco & Soul--5
+Blues--R&B--3
+Blues--Hip-Hop/Rap--8
+Funk & Disco & Soul--Disco--5
+Funk & Disco & Soul--Reggae--4
+Funk & Disco & Soul--Jazz--3
+Funk & Disco & Soul--Blues--5
+Funk & Disco & Soul--R&B--4
+R&B--Rock--6
+R&B--Rock/Pop--7
+R&B--House--6
+R&B--Disco--5
+R&B--Reggae--6
+R&B--Jazz--7
+R&B--Blues--3
+R&B--Funk & Disco & Soul--4
+R&B--Rap & Hip-Hop--3
+R&B--Hip-Hop/Rap--3
+R&B--Rap & Hip Hop--3
+R&B--Rap--2
+R&B--Rap Metal--8
+Rap & Hip-Hop--Rock/Pop--7
+Rap & Hip-Hop--R&B--3
+Rap & Hip-Hop--Hip-Hop/Rap--0
+Rap & Hip-Hop--Hip Hop/Rap--0
+Rap & Hip-Hop--Rap & Hip Hop--0
+Rap & Hip-Hop--Rap--2
+Hip-Hop/Rap--Rock/Pop--7
+Hip-Hop/Rap--Blues--8
+Hip-Hop/Rap--R&B--3
+Hip-Hop/Rap--Rap & Hip-Hop--0
+Hip-Hop/Rap--Hip Hop/Rap--0
+Hip-Hop/Rap--Rap & Hip Hop--0
+Hip-Hop/Rap--Rap--2
+Hip Hop/Rap--Rap & Hip-Hop--0
+Hip Hop/Rap--Hip-Hop/Rap--0
+Hip Hop/Rap--Rap & Hip Hop--0
+Rap & Hip Hop--Rock/Pop--7
+Rap & Hip Hop--R&B--3
+Rap & Hip Hop--Rap & Hip-Hop--0
+Rap & Hip Hop--Hip-Hop/Rap--0
+Rap & Hip Hop--Hip Hop/Rap--0
+Rap & Hip Hop--Rap--2
+Rap--Rock--8
+Rap--Jazz--9
+Rap--R&B--2
+Rap--Rap & Hip-Hop--2
+Rap--Hip-Hop/Rap--2
+Rap--Rap & Hip Hop--2
+Rap--Rap Metal--5
+Rap Metal--Rock--6
+Rap Metal--Punk Rock--7
+Rap Metal--Hard Rock--4
+Rap Metal--Metal--3
+Rap Metal--R&B--8
+Rap Metal--Rap--5
+AlternRock--Rock--3
+AlternRock--Punk Rock--5
+AlternRock--Alternative & Punk--3
+AlternRock--Hard Rock--2
+AlternRock--Alternative--0
+AlternRock--Rock/Pop--5
+AlternRock--Electronica, Alternative Rock--6
+Pop--Rock/Pop--3
+Pop--Dance Pop--2
+Pop--Disco--4
+Pop--R&B--5
+Pop--Rap--7
+Old School Rap--Rap & Hip-Hop--4
+Old School Rap--Rap--2
+Old School Rap--Rap Metal--7
+Old School Rap--R&B--4
+Old School Rap--Jazz--8
+General Rock--Rock--1
+General Rock--Punk Rock--5
+General Rock--Hard Rock--5
+General Rock--Rock/Pop--3
+Classic Rock--Rock--1
+Classic Rock--Punk Rock--5
+Classic Rock--Hard Rock--3
+Hip-Hop & Rap--Rap & Hip-Hop--0
+Trip-Hop--Trance--1
+Trip-Hop--House--5
+Trip-Hop--Dubstep--7
+Hip-Hop--Rap & Hip-Hop--2
+Hip-Hop--Rap--3
+Melodic Punk--Punk Rock--3
+Melodic Punk--Alternative & Punk--2
+Melodic Punk--Punk Rock--4
+Country--Jazz--5
+Country--Blues--3
+Slow Rock--Rock--3
+Slow Rock--Rock/Pop--4
+Dance--Dance Pop--3
+Dance--Disco--4
+Dance--Electronica/Dance--3
+Brit Pop--Rock/Pop--3
+Brit Pop--Rock--2
+Club House--House--2
+Club House--Dance Pop--4
+Funky Ballad--Funk & Disco & Soul--3
+Funky Ballad--Jazz--7
+General R&B--R&B--2
+General R&B--Rap & Hip Hop--3
+General R&B--Rap--4
+Rock/Classic Rock/70's--Rock--3
+Rock/Classic Rock/70's--Rock/Pop--5
+Rock/Classic Rock/70's--General Rock--3
+Rock/Classic Rock/70's--Classic Rock--1
+Rock/Classic Rock/70's--Slow Rock--4
+Grunge Rock--Rock--3
+Grunge Rock--Punk Rock--4
+Grunge Rock--Hard Rock--5
+Grunge Rock--Alternative--5
+Alternative Rock--AlternRock--0
+Alternative Rock--Rock--4
+Folk Rock--Folk--3
+Folk Rock--Rock--3
+Folk Rock--Rock/Pop--2
+Folk Rock--Slow Rock--4
+Classical--Jazz--5
+Rock/Dance--Rock--4
+Rock/Dance--Dance--3
+Rock/Dance--Electronic--4
+Rock/Dance--Pop--2
+Indie Pop--Indie--2
+Indie Pop--Rock/Pop--2
+Indie Pop--Pop--4
+Indie Rock--Indie--2
+Indie Rock--Rock--4
+Indie Rock--Indie Pop--2
+Indie Rock--Folk Rock--3
+Rave--Electronic--3
+Rave--Drum & Bass/Breaks--2
+Rave--Electronica--3
+Parody--Rock--6
+Parody--Pop--5
+Soundtrack--Classical--7
+Soundtrack--Rock--7
+Musical--Classical--4
+rock--Rock--0
+Psychedelic Rock--Rock--3
+Psychedelic Rock--Classic Rock--2
+Psychedelic Rock--Slow Rock--4
+Progressive Rock--Classic Rock--2
+Progressive Rock--Slow Rock--2
+Progressive Rock--Rock--4
+Progressive Rock--General Rock--3
+Game Soundtrack--Soundtrack--4
+Game Soundtrack--Classical--4
+R&B/Soul--Funk & Disco & Soul--3
+R&B/Soul--R&B--2
+comedy--Parody--1
+Piano Rock--Rock--4
+Piano Rock--Indie Rock--4
+Piano Rock--Classical--9
+Film Soundtrack--Classical--6
+Ska--Reggae--4
+Ska--R&B--5
+Ska--Blues--8
+Ska--Electronic--4
+Anti-Folk--Indie--3
+Anti-Folk--Folk--2
+Alt-Folk--Alternative--5
+Alt-Folk--Folk--2
+Alt-Folk--Folk Rock--1
+Antifolk--Anti-Folk--0
+Lo-Fi--Electronic--3
+Swedish Pop--Pop--3
+Swedish Pop--Dance Pop--3
+Comedy--Parody--0
+World--Classical--4
+World--Jazz--5
+Bass--Drum & Bass/Breaks--3
+Bass--Electronic--3
+Bass--Electronica--4
+Bass--House--4
+alt--Alternative--0
+Easy Listening--Country--4
+Retro--Classic Rock--4
+Retro--Disco--3
+classical--Classical--0
+Alt. Rock--Alternative--0
+Dance & Funkiness--Dance--3
+Dance & Funkiness--Funk & Disco & Soul--4
+Synthpop--Electronic--2
+Synthpop--Dance Pop--3
+Mashup--Electronic--4
+Mashup--Parody--7
+Soundtracks--Soundtrack--0
+Post-Grunge--Grunge Rock--2
+Post-Grunge--Alternative--4
+Experimental--Rock--4
+Experimental--Electronic--4
+Pop Soul--Pop--3
+Pop Soul--Dance Pop--4
+Pop Soul--Funk & Disco & Soul--4
+Funk--Funk & Disco & Soul--3
+Funk--Funky Ballad--4
+Funk--R&B--3
+Pop/Funk--Dance Pop--3
+Pop/Funk--Pop--4
+Pop/Funk--Funky Ballad--4
+Nu Disco--Disco--2
+Nu Disco--Funk & Disco & Soul--3
+Jazz, Funk, Soul, Fusion--Funk & Disco & Soul--2
+Jazz, Funk, Soul, Fusion--Jazz--4
+Pop/Rock--Rock/Pop--0
+comedy--Comedy--0
+Dance & House--Dance--2
+Dance & House--House--2
+Dance & House--Club House--3
+Dance & House--Dance Pop--3
+Game--Soundtrack--4
