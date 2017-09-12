@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Music Rec</string>
+    <string name="title_activity_recommendation">RecommendationActivity</string>
+    <string name="title_activity_library">Music Library</string>
+    <string name="edit_user">Username</string>
+    <string name="edit_pass">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="title_activity_song">SongActivity</string>
+    <string name="search_artist_opt">Artist - optional</string>
+    <string name="search_artist">Artist - required</string>
+    <string name="search_album_opt">Album - optional</string>
+    <string name="search_album">Album - required</string>
+    <string name="search_title">Track - required</string>
+    <string name="artist">artist</string>
+    <string name="track">track</string>
+    <string name="album">album</string>
+    <string name="button_search_song">Search For Song</string>
+    <string name="button_search_artist">Search For Artist</string>
+    <string name="button_search_album">Search For Album</string>
+    <string name="button_dialog_cancel">Cancel</string>
+    <string name="button_dialog_add">Add</string>
+    <string name="are_you_sure">Confirm: Add the</string>
+    <string name="adding_lib_update">"Adding to library: "</string>
+    <string name="connected_server">Connected to server</string>
+    <string name="refreshing_data">Added, refreshing local data</string>
+    <string name="num_songs_retrieved">" songs retrieved"</string>
+    <string name="database_refreshed">" database refreshed"</string>
+    <string-array name="search_array">
+        <item>Song</item>
+        <item>Artist</item>
+        <item>Album</item>
+    </string-array>
+</resources>

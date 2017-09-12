@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_add_songs"
+        android:icon="@drawable/add_song_icon"
+        android:enabled="true"
+        android:orderInCategory="1"
+        android:title="Add Songs To Library"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_change_user"
+        android:icon="@drawable/ic_group_white_24dp"
+        android:enabled="true"
+        android:orderInCategory="2"
+        android:title="Change User"
+        app:showAsAction="ifRoom"/>
+</menu>
